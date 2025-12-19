@@ -19,3 +19,4 @@ docker-compose up --build
 Open:
 http://localhost:8000/docs
 # ai-job-application-assistant
+# ai-job-application-assistant
